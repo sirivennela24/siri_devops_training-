@@ -1,1 +1,3 @@
 hi we are learning git
+
+this is we much useful to future scops
